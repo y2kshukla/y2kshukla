@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://yashshukla.netlify.app/](https://yashshukla.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://designrade.com/](https://designrade.com/)
 
 - 💬 Ask me about **Nextjs, React or firebase**
 
