@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Shukla</h1>
 <h3 align="center">A full Stack developer & UI/UX designer</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Pygame**
 
 - 👨‍💻 All of my projects are available at [https://designrade.com/](https://designrade.com/)
 
